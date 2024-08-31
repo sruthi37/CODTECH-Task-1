@@ -14,11 +14,12 @@
 
 The objective of developing a password strength assessment tool is to help users create strong, secure passwords by evaluating and providing feedback on the passwords they enter. The tool will analyze the following factors:
 
-**Length:** Assess whether the password is long enough to be secure. Generally, longer passwords are harder to crack.
-
-**Complexity:** Check for the presence of different types of characters (lowercase letters, uppercase letters, numbers, and special characters) in the password. A more complex password, with a mix of these characters, is generally more secure.
-
-**Uniqueness:** Evaluate how many unique characters are used in the password. A password with more unique characters is less likely to be guessed or brute-forced. The tool will provide an overall strength rating (e.g., "Weak," "Moderate," "Strong") based on these factors, and offer specific feedback to help users improve their passwords if needed. The ultimate goal is to enhance password security and reduce the risk of unauthorized access to systems or accounts.
+-Length: Assess whether the password is long enough to be secure. Generally, longer passwords are harder to crack.
+-Complexity: Check for the presence of different types of characters (lowercase letters, uppercase letters, numbers, and special characters) in the password. A more complex 
+ password, with a mix of these characters, is generally more secure.
+-Uniqueness: Evaluate how many unique characters are used in the password. A password with more unique characters is less likely to be guessed or brute-forced. The tool will 
+ provide an overall strength rating (e.g., "Weak," "Moderate," "Strong") based on these factors, and offer specific feedback to help users improve their passwords if needed. 
+ The ultimate goal is to enhance password security and reduce the risk of unauthorized access to systems or accounts.
 
 
 ### Key Activities

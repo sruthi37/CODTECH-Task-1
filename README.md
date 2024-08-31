@@ -13,7 +13,9 @@
 
 ## OVERVIEW OF THE PROJECT
 
+
 ### Project : Password Strength Checker
+
 
 ### Objective
 
@@ -72,7 +74,10 @@ The objective of developing a password strength assessment tool is to help users
 **assess_strength:** Combines these metrics to give a score and provides feedback.
 
 
-###  Sample Output
+### Output
+
+![Screenshot 2024-08-31 192656](https://github.com/user-attachments/assets/1819240e-143c-426d-b53b-50efcc3d731f)
+
 
 Enter your password: P@ssw0rd123!
 
@@ -81,6 +86,7 @@ Password Strength: Strong
 Feedback:
 - Good length (12+ characters).
 - Good use of unique characters.
+  
   
 
 ### Conclusion

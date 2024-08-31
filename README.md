@@ -78,16 +78,7 @@ The objective of developing a password strength assessment tool is to help users
 
 ![Screenshot 2024-08-31 192656](https://github.com/user-attachments/assets/1819240e-143c-426d-b53b-50efcc3d731f)
 
-
-Enter your password: P@ssw0rd123!
-
-Password Strength: Strong
-
-Feedback:
-- Good length (12+ characters).
-- Good use of unique characters.
-  
-  
+(The above output is displayed in Vs code.)
 
 ### Conclusion
 

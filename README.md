@@ -46,10 +46,15 @@ The objective of developing a password strength assessment tool is to help users
 ### Implementation:
 
 **Length Check:** Implement a function to calculate and assess password length.
+
 **Complexity Check:** Implement regular expressions or other methods to check for the inclusion of different character types.
+
 **Uniqueness Check:** Implement a function to count unique characters in the password.
+
 **Scoring System:** Develop a scoring system that combines the results of the length, complexity, and uniqueness checks to determine overall password strength.
+
 **Feedback Mechanism:** Create a feedback system to provide users with suggestions for improving their passwords based on the evaluation.
+
 
 ### How it Works?
 
@@ -65,7 +70,9 @@ The objective of developing a password strength assessment tool is to help users
 ###  Sample Output
 
 Enter your password: P@ssw0rd123!
+
 Password Strength: Strong
+
 Feedback:
 - Good length (12+ characters).
 - Good use of unique characters.

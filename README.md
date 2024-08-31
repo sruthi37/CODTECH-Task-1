@@ -48,7 +48,7 @@ The objective of developing a password strength assessment tool is to help users
 **Visual Studio Code:** VS code used for writing, testing, and debugging the Python code.
 
 
-### Implementation:
+### Implementation
 
 **Length Check:** Implement a function to calculate and assess password length.
 

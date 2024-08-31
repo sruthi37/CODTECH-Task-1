@@ -23,7 +23,7 @@ The objective of developing a password strength assessment tool is to help users
 
 ### Key Activities
 
-   -Requirements Gathering: Define the criteria for evaluating password strength (e.g., length, complexity, uniqueness). Determine the feedback categories (e.g., "Weak," "Moderate," "Strong").
+**Requirements Gathering:** Define the criteria for evaluating password strength (e.g., length, complexity, uniqueness). Determine the feedback categories (e.g., "Weak," "Moderate," "Strong").
 
 **Algorithm Design:** Design algorithms to evaluate the Length, Complexity, Uniqueness.
 
@@ -65,13 +65,11 @@ The objective of developing a password strength assessment tool is to help users
 ###  Sample Output
 
 Enter your password: P@ssw0rd123!
-
 Password Strength: Strong
-
 Feedback:
-
 - Good length (12+ characters).
 - Good use of unique characters.
+  
 
 ### Conclusion
 

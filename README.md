@@ -41,15 +41,23 @@ The tool will provide an overall strength rating (e.g., "Weak," "Moderate," "Str
 
 ### Technologies Used
 
->**Python:** Python is a versatile and widely-used programming language with extensive libraries for string manipulation, pattern matching (using regular expressions), and general algorithm development.
+>**Python:**
+        *Python is a versatile and widely-used programming language with extensive libraries for string manipulation, pattern matching (using regular expressions), and general algorithm development.
 
->**Regular Expressions(re module in Python):** Regular expressions are used to check for the presence of different character types in the password (lowercase letters, uppercase letters, numbers, special characters). The 're' module in Python provides powerful tools for matching patterns in strings.
+>**Regular Expressions(re module in Python):**
+        *Regular expressions are used to check for the presence of different character types in the password (lowercase letters, uppercase letters, numbers, special characters).
+        *The 're' module in Python provides powerful tools for matching patterns in strings.
+       
+>**Kali Linux:**
+        *Kali Linux, is a common environment for security-related tools and scripts.
+        *The tool can be designed to run efficiently in a Linux terminal, taking advantage of the scripting capabilities and security tools available in Kali Linux.
 
->**Kali Linux:** Kali Linux, is a common environment for security-related tools and scripts. The tool can be designed to run efficiently in a Linux terminal, taking advantage of the scripting capabilities and security tools available in Kali Linux.
+>**Command-Line Interface(CLI):**
+        *The tool can be built as a command-line utility that users can run directly in a terminal or shell.
+        *This is particularly useful in Kali Linux where command-line tools are preferred for efficiency and automation.
 
->**Command-Line Interface(CLI):** The tool can be built as a command-line utility that users can run directly in a terminal or shell. This is particularly useful in Kali Linux where command-line tools are preferred for efficiency and automation.
-
->**Visual Studio Code:** VS code used for writing, testing, and debugging the Python code.
+>**Visual Studio Code:**
+        *VS code used for writing, testing, and debugging the Python code.
 
 
 ### Implementation

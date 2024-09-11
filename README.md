@@ -14,10 +14,10 @@
 ## OVERVIEW OF THE PROJECT
 
 
-### Project : Password Strength Checker
+### PROJECT : PASSWORD STRENGTH CHECKER
 
 
-### Objective
+### OBJECTIVE
 
 The objective of developing a password strength assessment tool is to help users create strong, secure passwords by evaluating and providing feedback on the passwords they enter. The tool will analyze the following factors:
 
@@ -30,7 +30,7 @@ The objective of developing a password strength assessment tool is to help users
 The tool will provide an overall strength rating (e.g., "Weak," "Moderate," "Strong") based on these factors, and offer specific feedback to help users improve their passwords if needed. The ultimate goal is to enhance password security and reduce the risk of unauthorized access to systems or accounts.
 
 
-### Key Activities
+### KEY ACTIVITIES
 
 >**Requirements Gathering:** Define the criteria for evaluating password strength (e.g., length, complexity, uniqueness). Determine the feedback categories (e.g., "Weak," "Moderate," "Strong").
 
@@ -39,7 +39,7 @@ The tool will provide an overall strength rating (e.g., "Weak," "Moderate," "Str
 >**Optimization:** Optimize the algorithms for performance, ensuring the tool runs efficiently even with large or complex passwords. Refine the feedback provided to users, making it clear and actionable.
 
 
-### Technologies Used
+### TECHNOLOGIES USED
 
 >**Python:** Python is a versatile and widely-used programming language with extensive libraries for string manipulation, pattern matching (using regular expressions), and general algorithm development.
 
@@ -52,7 +52,7 @@ The tool will provide an overall strength rating (e.g., "Weak," "Moderate," "Str
 >**Visual Studio Code:** VS code used for writing, testing, and debugging the Python code.
 
 
-### Implementation
+### IMPLEMENTATION
 
 >**Length Check:** Implement a function to calculate and assess password length.
 
@@ -65,7 +65,7 @@ The tool will provide an overall strength rating (e.g., "Weak," "Moderate," "Str
 >**Feedback Mechanism:** Create a feedback system to provide users with suggestions for improving their passwords based on the evaluation.
 
 
-### How it Works?
+### HOW IT WORKS?
 
     check_length  #Evaluates the length of the password.
 
@@ -76,14 +76,14 @@ The tool will provide an overall strength rating (e.g., "Weak," "Moderate," "Str
     assess_strength  #Combines these metrics to give a score and provides feedback.
 
 
-### Output
+### OUTPUT
 
 ![Screenshot 2024-08-31 192656](https://github.com/user-attachments/assets/1819240e-143c-426d-b53b-50efcc3d731f)
 
 The above program is executed and the output is displayed in VS code.
 
 
-### Conclusion
+### CONCLUSION
 
 The development of a password strength assessment tool provides a practical solution to enhance user security by evaluating the robustness of passwords. By implementing algorithms that analyze key factors such as length, complexity, and uniqueness, the tool offers users actionable feedback on how to improve their passwords. This not only helps individuals create stronger, more secure passwords but also raises awareness of best practices in password creation.
 
